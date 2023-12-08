@@ -56,6 +56,7 @@ days_to_minutes(20)
 days_to_hours(1)
 days_to_hours(20)
 
-print (add_number(1, 2), add_number(3, 4), add_number(5, 6))
+result = add_number(1, 2);
+print (result, add_number(3, 4))
 
 scope_check(300)
